@@ -1,0 +1,638 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "f4ca06ee-cb8f-418c-99be-eacecf731ece")
+	(paper "A4")
+	(title_block
+		(title "TPUNB 中继/DTU")
+		(date "2025-06-07")
+		(rev "B")
+		(company "杭州华炳电子科技有限公司")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 196.85 90.17) (xy 205.74 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a0f3073-f233-4f3d-b253-d3b0c84bb2d3")
+	)
+	(wire
+		(pts
+			(xy 146.05 86.36) (xy 154.94 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ca5b1f5-8426-46c7-9a90-80935fa02446")
+	)
+	(wire
+		(pts
+			(xy 196.85 80.01) (xy 205.74 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0dd0a7b8-bc60-4ead-a4a7-562b969125d7")
+	)
+	(wire
+		(pts
+			(xy 146.05 63.5) (xy 154.94 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b04e83b-c632-493c-a873-d113cc208977")
+	)
+	(wire
+		(pts
+			(xy 196.85 67.31) (xy 205.74 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "404b4f0d-57e3-4dbd-afb6-0e44ac3148b4")
+	)
+	(wire
+		(pts
+			(xy 146.05 66.04) (xy 154.94 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4da6f48b-c492-49bc-a51f-19396239b071")
+	)
+	(wire
+		(pts
+			(xy 196.85 92.71) (xy 205.74 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52288f70-d530-4501-a048-e2224d0404b9")
+	)
+	(wire
+		(pts
+			(xy 146.05 69.85) (xy 154.94 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52d2f79d-4b6e-4e7a-9ebf-91aa8ca3ab9e")
+	)
+	(wire
+		(pts
+			(xy 146.05 90.17) (xy 154.94 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69ebae58-986b-4533-9fcb-e3a0f3328a98")
+	)
+	(wire
+		(pts
+			(xy 146.05 92.71) (xy 154.94 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7116a0fc-44eb-4d82-8e29-e0a84260abaa")
+	)
+	(wire
+		(pts
+			(xy 196.85 82.55) (xy 205.74 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85a4bc69-9f44-4f2e-847f-7761603501c9")
+	)
+	(wire
+		(pts
+			(xy 146.05 83.82) (xy 154.94 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f40a4b3-6775-4102-806c-bf8265be7b15")
+	)
+	(wire
+		(pts
+			(xy 196.85 64.77) (xy 205.74 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4c3874f-01da-4f32-bee8-f74c35e7ce29")
+	)
+	(wire
+		(pts
+			(xy 196.85 69.85) (xy 205.74 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae71889e-0709-4e8a-acf8-be1f73159fb4")
+	)
+	(wire
+		(pts
+			(xy 146.05 72.39) (xy 154.94 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd4d5394-8ab2-43cf-8709-b9c46f687f25")
+	)
+	(sheet
+		(at 154.94 60.96)
+		(size 41.91 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "55a2bc30-578c-493d-90c2-4c91a15d5b45")
+		(property "Sheetname" "system"
+			(at 154.94 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "system.kicad_sch"
+			(at 154.94 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TPUNB2_TX" output
+			(at 154.94 83.82 180)
+			(uuid "6883fd6d-4e3e-4b83-bb45-b99c38f361d0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RS485_RX" input
+			(at 196.85 69.85 0)
+			(uuid "30e07ce1-8098-4840-9aa9-ff48515d20e9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TPUNB2_RX" input
+			(at 154.94 86.36 180)
+			(uuid "422c802e-4fbc-4ae0-bc00-e11d1ddab6cc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DEBUG_RX" input
+			(at 196.85 80.01 0)
+			(uuid "cc618857-0cb4-4453-925e-df1b3309e2f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TPUNB1_WAKE" output
+			(at 154.94 72.39 180)
+			(uuid "a60f6223-59e4-4900-bdc2-29584655b7e9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TPUNB1_RX" input
+			(at 154.94 66.04 180)
+			(uuid "8fdda72d-c7f1-4fe2-88e1-7778d40ef8e9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TPUNB2_WAKE" output
+			(at 154.94 92.71 180)
+			(uuid "8dbe20b4-cfae-497f-a36f-24659d81efb8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RS485_DE" output
+			(at 196.85 64.77 0)
+			(uuid "6c587f3c-c276-4cc6-9d97-a41c061124b3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RS485_TX" output
+			(at 196.85 67.31 0)
+			(uuid "d92af341-2427-4c2d-9fda-8a6fcbaddaec")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TPUNB1_TX" output
+			(at 154.94 63.5 180)
+			(uuid "64d69368-d0c5-47ce-82a9-2fa285784854")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TPUNB2_RST" output
+			(at 154.94 90.17 180)
+			(uuid "cd307d66-b3b0-4c74-8c0e-f4aa4704e846")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DEBUG_TX" output
+			(at 196.85 82.55 0)
+			(uuid "e737f515-e99d-4386-a0fd-87545cee062e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TPUNB1_RST" output
+			(at 154.94 69.85 180)
+			(uuid "cfc43324-6e6a-498e-b48d-e45d05c70e24")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DN" bidirectional
+			(at 196.85 92.71 0)
+			(uuid "5fc88ade-d481-4b97-9060-8751fea47382")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_DP" bidirectional
+			(at 196.85 90.17 0)
+			(uuid "2349afa9-d25f-49a3-a327-d78043be487d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "tpunb-repeater-dtu"
+				(path "/f4ca06ee-cb8f-418c-99be-eacecf731ece"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 60.96)
+		(size 19.05 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "75a95a03-60cd-41c4-8813-76721f0c2a49")
+		(property "Sheetname" "tpunb"
+			(at 127 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "tpunb.kicad_sch"
+			(at 127 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TPUNB1_RST" input
+			(at 146.05 69.85 0)
+			(uuid "714ff2be-93ec-4e6f-9c13-4d8fd413a69c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TPUNB1_TX" input
+			(at 146.05 63.5 0)
+			(uuid "85ed4d30-a037-45dd-b2c7-74c154f104aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TPUNB2_WAKE" input
+			(at 146.05 92.71 0)
+			(uuid "43cddc48-a1d1-4712-bb55-2bb0502cacff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TPUNB2_RST" input
+			(at 146.05 90.17 0)
+			(uuid "f267ba69-10aa-4b11-aeb8-ba2a6978f907")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TPUNB2_RX" output
+			(at 146.05 86.36 0)
+			(uuid "8182dabe-ff51-4f3f-bf1e-d10c8b68d060")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TPUNB2_TX" input
+			(at 146.05 83.82 0)
+			(uuid "27a50fa9-4197-4189-9ed1-352ac8f161ca")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TPUNB1_WAKE" input
+			(at 146.05 72.39 0)
+			(uuid "764ca550-6505-4e5f-a99b-87e9b707ea8f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TPUNB1_RX" output
+			(at 146.05 66.04 0)
+			(uuid "e08a9777-83b0-4b2a-8a04-866615aa32ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "tpunb-repeater-dtu"
+				(path "/f4ca06ee-cb8f-418c-99be-eacecf731ece"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 104.394)
+		(size 95.25 25.908)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8893c9bd-f106-4156-af71-310b3a86eb52")
+		(property "Sheetname" "power"
+			(at 127 103.6824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 127 130.8866 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "tpunb-repeater-dtu"
+				(path "/f4ca06ee-cb8f-418c-99be-eacecf731ece"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 205.74 60.96)
+		(size 16.51 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9ba2f554-913e-4a52-8a5d-b6334e0388cb")
+		(property "Sheetname" "interface"
+			(at 205.74 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "interface.kicad_sch"
+			(at 205.74 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RS485_DE" input
+			(at 205.74 64.77 180)
+			(uuid "ecd0752b-8639-4697-9f42-07c991b7bed4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RS485_TX" input
+			(at 205.74 67.31 180)
+			(uuid "25e6b934-9657-4171-af5e-571e5fa85366")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DEBUG_TX" input
+			(at 205.74 82.55 180)
+			(uuid "852b57ae-52f9-4683-800b-ebded8ef581d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RS485_RX" output
+			(at 205.74 69.85 180)
+			(uuid "c57f3e1c-bdf9-4ce1-af93-b2d7ebda63fe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DEBUG_RX" output
+			(at 205.74 80.01 180)
+			(uuid "d108b5ce-7672-4a56-b0e0-2bb2e1b2d353")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DN" bidirectional
+			(at 205.74 92.71 180)
+			(uuid "ca3d8099-cfe1-4e69-b05f-0abcedb71114")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DP" bidirectional
+			(at 205.74 90.17 180)
+			(uuid "e5abc564-05ad-4838-bd75-843842b91170")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "tpunb-repeater-dtu"
+				(path "/f4ca06ee-cb8f-418c-99be-eacecf731ece"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
