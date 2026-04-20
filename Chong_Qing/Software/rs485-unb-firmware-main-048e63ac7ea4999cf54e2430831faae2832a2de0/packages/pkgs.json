@@ -1,0 +1,17 @@
+[
+ {
+  "path": "/packages/iot/agile_modbus", 
+  "ver": "v1.1.2", 
+  "name": "AGILE_MODBUS"
+ }, 
+ {
+  "path": "/packages/tools/uMCN", 
+  "ver": "latest", 
+  "name": "UMCN"
+ }, 
+ {
+  "path": "/packages/system/FlashDB", 
+  "ver": "v2.1.0", 
+  "name": "FLASHDB"
+ }
+]
