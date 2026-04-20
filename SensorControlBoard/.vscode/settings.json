@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "chry_ringbuffer.h": "c",
+        "bit": "c",
+        "compare": "c",
+        "limits": "c",
+        "new": "c",
+        "main.h": "c"
+    }
+}
