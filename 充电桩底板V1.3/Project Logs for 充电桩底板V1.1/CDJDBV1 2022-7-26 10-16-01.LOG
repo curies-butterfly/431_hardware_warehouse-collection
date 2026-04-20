@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C54
+Change Component Designator: OldDesignator=C? NewDesignator=C55
+Change Component Designator: OldDesignator=C? NewDesignator=C56
+Change Component Designator: OldDesignator=C? NewDesignator=C57
+Change Component Designator: OldDesignator=CF? NewDesignator=CF1
+Change Component Designator: OldDesignator=CF? NewDesignator=CF2
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP4
+Change Component Designator: OldDesignator=JP? NewDesignator=JP5
+Change Component Designator: OldDesignator=JP? NewDesignator=JP6
+Change Component Designator: OldDesignator=JP? NewDesignator=JP7
+Change Component Designator: OldDesignator=JP? NewDesignator=JP8
+Change Component Designator: OldDesignator=JP? NewDesignator=JP9
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=R? NewDesignator=R103
+Change Component Designator: OldDesignator=R? NewDesignator=R104
+Change Component Designator: OldDesignator=R? NewDesignator=R105
+Change Component Designator: OldDesignator=U? NewDesignator=U41
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC54_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC54_2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR103_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR104_2
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component C54 0.1uF
+Added Member To Class: ClassName=connectV1.1 Member=Component C55 22uF
+Added Member To Class: ClassName=connectV1.1 Member=Component C57
+Added Member To Class: ClassName=connectV1.1 Member=Component CF1 0.1uF
+Added Member To Class: ClassName=connectV1.1 Member=Component JP5 HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP6 HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP7 HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP8 HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP9 HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component R103 100K
+Added Member To Class: ClassName=connectV1.1 Member=Component R104 100K
+Added Member To Class: ClassName=connectV1.1 Member=Component U41 PW2815

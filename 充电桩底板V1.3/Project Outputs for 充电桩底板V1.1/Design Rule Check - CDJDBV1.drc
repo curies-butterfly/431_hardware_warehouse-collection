@@ -1,0 +1,310 @@
+Protel Design System Design Rule Check
+PCB File : D:\1cad431LabFiles\³äµç×®\Ó²¼þ\³äµç×®µ×°åV1.2\³äµç×®µ×°åV1.1\CDJDBV1.1.PcbDoc
+Date     : 2024/3/22
+Time     : 21:54:15
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=400mil) (Preferred=140mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Track (3820mil,2740mil)(3854.251mil,2740mil) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1'))
+   Violation between Room Definition: Between Component M£¿1-HLK-PM03 (7064.449mil,636.968mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component M£¿2-HLK-PM03 (3139.724mil,639.449mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component M£¿3-HLK-PM03 (11515mil,1310mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U10-PC817 (10025mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U11-PC817 (9315mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U12-PC817 (10735mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U13-PC817 (8825mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U14-PC817 (10238.333mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U15-PC817 (9531.667mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U16-PC817 (10945mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U21-PC817 (5261.667mil,2720mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U22-PC817 (5963.333mil,2720mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U23-PC817 (4560mil,2720mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U24-PC817 (6665mil,2720mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U25-PC817 (5478.333mil,2720mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U26-PC817 (6176.667mil,2720mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U27-PC817 (4780mil,2720mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U28-PC817 (6875mil,2720mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U33-PC817 (1995mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U34-PC817 (1300mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U35-PC817 (2720mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U36-PC817 (595mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U37-PC817 (2210mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U38-PC817 (1515mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U39-PC817 (2935mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U40-PC817 (810mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Component U9-PC817 (8605mil,2715mil) on Top Layer And Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component F1-5x20/2A (10845mil,1060.055mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component F2-5x20/2A (6790mil,1083.055mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component F3-5x20/2A (2830mil,1090mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component R39-5mR (6495mil,1835mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component R40-5mR (5803.333mil,1835mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component R41-5mR (5100mil,1840mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component R42-5mR (4381.667mil,1845mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component R5-5mR (10565mil,1830mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component R6-5mR (9851.667mil,1830mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component R73-5mR (2551.299mil,1835mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component R74-5mR (1840mil,1840mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component R75-5mR (1130mil,1840mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component R7-5mR (9138.333mil,1830mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component R76-5mR (420mil,1840mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And Small Component R8-5mR (8430mil,1830mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C10-0.1uF (9213.27mil,2405mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C11-0.1uF (9924.135mil,2405mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C12-0.1uF (8502.405mil,2405mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C13-0.1uF (10995mil,2390mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C1-330nF (10719.997mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C14-0.1uF (10283.333mil,2390mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C15-0.1uF (9571.667mil,2390mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C16-0.1uF (8860mil,2390mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C17-33nF (11125mil,2070mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C18-330nF (6645mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C19-330nF (5950mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C20-330nF (5250mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C21-330nF (4539.997mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C22-330nF (6730mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C2-330nF (10005mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C23-330nF (6035mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C24-330nF (5335mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C25-330nF (4625mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C26-0.1uF (5160.802mil,2410mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C27-0.1uF (6562.405mil,2410mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C28-0.1uF (4460mil,2410mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C29-0.1uF (5861.603mil,2410mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C30-0.1uF (6925mil,2385mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C31-0.1uF (6230mil,2385mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C32-0.1uF (5525mil,2385mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C33-0.1uF (4815mil,2385mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C3-330nF (9294.997mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C34-33nF (7125mil,2082.595mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C35-330nF (2700mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C36-330nF (1979.997mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C37-330nF (1279.997mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C38-330nF (575mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C39-330nF (2785mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C40-330nF (2065mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C41-330nF (1365mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C42-330nF (660.003mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C43-0.1uF (495mil,2405mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C4-330nF (8585mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C44-0.1uF (1200mil,2405mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C45-0.1uF (1895mil,2405mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C46-0.1uF (2622.405mil,2405mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C47-0.1uF (2972.398mil,2380mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C48-0.1uF (2250mil,2380mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C49-0.1uF (1555mil,2380mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C50-0.1uF (845mil,2380.006mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C51-33nF (3205mil,2080mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C5-330nF (10805mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C6-330nF (10090.003mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C7-330nF (9380.003mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C8-330nF (8670mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component C9-0.1uF (10635mil,2405mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R100-1K (1075mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R10-100R (10175mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R101-1K (2495mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R102-1K (370mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R1-100R (10635.003mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R11-100R (9465.003mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R12-100R (8755.003mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R13-1K (8460.003mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R14-1K (9875mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R15-1K (9170mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R16-1K (10590mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R17-1K (9055mil,2875mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R18-1K (9880mil,2885mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R19-1K (9760mil,2885mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R20-1K (10595mil,2880mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R2-100R (9920mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R21-200K (11480.003mil,2067.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R22-200K (11440mil,2185mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R23-200K (11389.997mil,2067.405mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R24-200K (11300.003mil,2067.595mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R25-200K (11257.602mil,2180.003mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R26-1K (8970mil,2875mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R27-1K (10380mil,2885mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R28-1K (9675mil,2885mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R29-1K (10510mil,2880mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R30-1K (8374.997mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R3-100R (9210.003mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R31-1K (11209.997mil,2067.602mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R32-1K (9790mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R33-1K (9085mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R34-1K (10505mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R35-100R (6560mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R36-100R (5865.003mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R37-100R (5165mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R38-100R (4455.003mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R4-100R (8500.003mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R43-100R (6815mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R44-100R (6120mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R45-100R (5420mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R46-100R (4710mil,2022.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R47-1K (5120mil,2575mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R48-1K (5825mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R49-1K (4425mil,2580mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R50-1K (6515mil,2575mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R51-1K (5715mil,2885mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R52-1K (6420mil,2885mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R53-1K (5015mil,2880mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R54-1K (7125mil,2890mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R55-200K (7395mil,2082.595mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R56-200K (7350mil,2200mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R57-200K (7305mil,2082.595mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R58-200K (7215.003mil,2082.595mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R59-200K (7170mil,2200mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R60-1K (5630mil,2885mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R61-1K (6335mil,2885mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R62-1K (4930mil,2880mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R63-1K (7040mil,2890mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R64-1K (7040mil,2082.595mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R65-1K (5035mil,2575mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R66-1K (5740mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R67-1K (4920mil,2575mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R68-1K (6430mil,2575mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R69-100R (2615mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R70-100R (1895mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R71-100R (1195.003mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R72-100R (490mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R77-100R (2870mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R78-100R (2150mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R79-100R (1450mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R80-100R (745.003mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R81-1K (1855mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R82-1K (1160mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R83-1K (2580mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R84-1K (455.003mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R85-1K (2440mil,2880mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R86-1K (1744.997mil,2882.405mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R87-1K (3164.997mil,2882.405mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R88-1K (1035mil,2880mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R89-200K (3475mil,2080mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R90-200K (3430mil,2200mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R9-100R (10890mil,2017.398mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R91-200K (3385mil,2080mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R92-200K (3295mil,2080mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R93-200K (3250mil,2195mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R94-1K (2355mil,2880mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R95-1K (1660mil,2880mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R96-1K (3080mil,2880mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R97-1K (950mil,2880mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R98-1K (1770mil,2570mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SMT Small Component R99-1K (3120mil,2080mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SOIC Component IC4-CD4067BM96 (2980.276mil,3390.002mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SOIC Component IC5-CD4067BM96 (3685mil,3630mil) on Bottom Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SOIC Component U17-HLW8110 (6684mil,2252mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SOIC Component U18-HLW8110 (5989mil,2247mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SOIC Component U19-HLW8110 (5284mil,2257mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SOIC Component U20-HLW8110 (4580mil,2265mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SOIC Component U29-HLW8110 (2739mil,2247mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SOIC Component U30-HLW8110 (2014mil,2262mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SOIC Component U31-HLW8110 (1319mil,2262mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SOIC Component U32-HLW8110 (614mil,2262mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SOIC Component U5-HLW8110 (10760mil,2270mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SOIC Component U6-HLW8110 (10045.994mil,2262.157mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SOIC Component U7-HLW8110 (9334mil,2263.496mil) on Top Layer 
+   Violation between Room Definition: Between Room DNJLV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('DNJLV1.1')) And SOIC Component U8-HLW8110 (8625mil,2260mil) on Top Layer 
+Rule Violations :197
+
+Processing Rule : Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1'))
+   Violation between Room Definition: Between Component JK10-HF (1610mil,1177mil) on Top Layer And Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) 
+   Violation between Room Definition: Between Component JK11-HF (998.638mil,1177mil) on Top Layer And Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) 
+   Violation between Room Definition: Between Component JK12-HF (541mil,1177mil) on Top Layer And Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) 
+   Violation between Room Definition: Between Component JK1-HF (10198.638mil,1152mil) on Top Layer And Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) 
+   Violation between Room Definition: Between Component JK2-HF (9551.5mil,1152mil) on Top Layer And Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) 
+   Violation between Room Definition: Between Component JK3-HF (8965.75mil,1152mil) on Top Layer And Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) 
+   Violation between Room Definition: Between Component JK4-HF (8338.638mil,1152mil) on Top Layer And Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) 
+   Violation between Room Definition: Between Component JK5-HF (6140mil,1175mil) on Top Layer And Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) 
+   Violation between Room Definition: Between Component JK6-HF (5499mil,1175mil) on Top Layer And Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) 
+   Violation between Room Definition: Between Component JK7-HF (4910mil,1175mil) on Top Layer And Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) 
+   Violation between Room Definition: Between Component JK8-HF (4420mil,1175mil) on Top Layer And Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) 
+   Violation between Room Definition: Between Component JK9-HF (2218.638mil,1177mil) on Top Layer And Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) 
+   Violation between Room Definition: Between Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) And SOIC Component IC1-74HC595 (7650mil,3080mil) on Top Layer 
+   Violation between Room Definition: Between Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) And SOIC Component IC2-74HC595 (3695mil,2793.268mil) on Bottom Layer 
+   Violation between Room Definition: Between Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) And SOIC Component IC3-74HC595 (8085mil,3080mil) on Top Layer 
+   Violation between Room Definition: Between Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) And SOIC Component U1-ULN2003 (8035mil,2658.189mil) on Top Layer 
+   Violation between Room Definition: Between Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) And SOIC Component U2-ULN2003 (7600mil,2660mil) on Top Layer 
+   Violation between Room Definition: Between Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) And SOIC Component U3-ULN2003 (3595mil,2645mil) on Top Layer 
+   Violation between Room Definition: Between Room JDQV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('JDQV1.1')) And SOIC Component U4-ULN2003 (4030mil,2645mil) on Top Layer 
+Rule Violations :19
+
+Processing Rule : Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1'))
+   Violation between Room Definition: Between Component COM2-Component_2 (8993.701mil,4512.087mil) on Top Layer And Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) 
+   Violation between Room Definition: Between Component U41-PW2815 (8638.307mil,3685.394mil) on Top Layer And Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) 
+   Violation between Room Definition: Between Component V1-AMS1117-3V3 (7670mil,3635mil) on Top Layer And Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) 
+   Violation between Room Definition: Between DIP Component COM1-Header 6X2 (4968.11mil,3595.63mil) on Top Layer And Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SIP Component JP2-HDR-1X4 (9570mil,325mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SIP Component JP7-HDR-1X4 (5475mil,330mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SIP Component JP9-HDR-1X4 (1525mil,330mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SIP Component L_IN-HDR-1X4 (11905mil,3630mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And Small Component C57-Cap Pol1 (8759.213mil,4045mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And Small Component JP3-HDR-1X2 (11440mil,315mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And Small Component JP6-HDR-1X2 (7415mil,305mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And Small Component JP8-HDR-1X2 (3490mil,325mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And Small Component L1-10uH (8810mil,3330mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And Small Component M3_1-M3 (12025mil,4500mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And Small Component M3_2-M3 (310mil,170mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And Small Component M3_3-M3 (320mil,3765mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And Small Component M3_4-M3 (11980mil,235mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And Small Component N_IN-HDR-1X2 (11903.701mil,2645mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component C52-104 (7935mil,3680mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component C53-104 (7449.997mil,3622.602mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component C54-104 (8615mil,3445mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component C55-22uF (8525mil,3225mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component C56-22uF (8610mil,3225mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component CF1-104 (8440.003mil,3232.398mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component CF2-104 (8817.398mil,3889.997mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component D1-SS310 (8870mil,3675mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component E1-47uF/10V (7330mil,3570mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component E2-47uF/10V (8060mil,3620mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component LED1-ºìÉ« (7164.741mil,3495.005mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component R103-1K (8389.997mil,3747.405mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component R104-1K (8672.595mil,3889.997mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component R105-1K (8485.003mil,3747.398mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component R106-1k (7165mil,3660mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component TP1-TEST (8670mil,4405mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component TP2-TEST (7455mil,3750mil) on Top Layer 
+   Violation between Room Definition: Between Room connectV1.1 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('connectV1.1')) And SMT Small Component TP3-TEST (8175mil,3865mil) on Top Layer 
+Rule Violations :36
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 253
+Waived Violations : 0
+Time Elapsed        : 00:00:02

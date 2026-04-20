@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=L1_GND Pin=JP3-1
+Removed Pin From Net: NetName=L2_GND Pin=JP?-1
+Removed Pin From Net: NetName=L3_GND Pin=JP?-1
+Change Component Designator: OldDesignator= NewDesignator=JP?
+Added Pin To Net: NetName=AC_N Pin=JP3-1
+Added Pin To Net: NetName=AC_N Pin=JP?-1
+Added Pin To Net: NetName=AC_N Pin=JP?-1
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4

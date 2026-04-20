@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=R8 Pin=IC5-2
+Removed Pin From Net: NetName=R7 Pin=IC5-3
+Removed Pin From Net: NetName=R6 Pin=IC5-4
+Removed Pin From Net: NetName=R5 Pin=IC5-5
+Removed Pin From Net: NetName=R4 Pin=IC5-6
+Removed Pin From Net: NetName=R3 Pin=IC5-7
+Removed Pin From Net: NetName=R2 Pin=IC5-8
+Removed Pin From Net: NetName=R1 Pin=IC5-9
+Removed Pin From Net: NetName=SEL_A Pin=IC5-10
+Removed Pin From Net: NetName=SEL_B Pin=IC5-11
+Removed Pin From Net: NetName=AC_GND Pin=IC5-12
+Removed Pin From Net: NetName=SEL_D Pin=IC5-13
+Removed Pin From Net: NetName=SEL_C Pin=IC5-14
+Removed Pin From Net: NetName=AC_GND Pin=IC5-15
+Removed Pin From Net: NetName=R12 Pin=IC5-20
+Removed Pin From Net: NetName=R11 Pin=IC5-21
+Removed Pin From Net: NetName=R10 Pin=IC5-22
+Removed Pin From Net: NetName=R9 Pin=IC5-23
+Removed Pin From Net: NetName=+3.3_AC Pin=IC5-24
+Removed Member From Class: ClassName=DNJLV1.1 Member=IC5
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4

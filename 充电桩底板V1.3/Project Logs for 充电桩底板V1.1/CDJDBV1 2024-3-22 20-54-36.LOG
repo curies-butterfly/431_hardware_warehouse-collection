@@ -1,0 +1,52 @@
+Change Component Footprint: Designator=R5 Old Footprint=10mm sampl New Footprint=²ÉÑùµç×è
+Change Component Footprint: Designator=C57 Old Footprint=CAP 2.5*5*11 - GD New Footprint=RB7.6-15
+Change Component Footprint: Designator=L1 Old Footprint=L-SMD-0630 New Footprint=AL0204
+Change Component Footprint: Designator=U9 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U10 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U11 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U12 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U13 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U14 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U15 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U16 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U21 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U22 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U23 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U24 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U25 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U26 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U27 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U28 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U33 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U34 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U35 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U36 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U37 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U38 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U39 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U40 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Comment : Designator=C57 Old Comment= New Comment=Cap Pol1
+Change Component Comment : Designator=C54 Old Comment=0.1uF New Comment=104
+Change Component Comment : Designator=CF1 Old Comment=0.1uF New Comment=104
+Change Component Comment : Designator=CF2 Old Comment=0.1uF New Comment=104
+Change Component Comment : Designator=R105 Old Comment=19.1K New Comment=1K
+Change Component Comment : Designator=L1 Old Comment=22uH New Comment=10uH
+Change Component Comment : Designator=R103 Old Comment=100K New Comment=1K
+Change Component Comment : Designator=R104 Old Comment=100K New Comment=1K
+Change Component Designator: OldDesignator=* NewDesignator=M3_1
+Change Component Designator: OldDesignator= NewDesignator=COM1
+Change Component Designator: OldDesignator= NewDesignator=COM2
+Change Component Designator: OldDesignator= NewDesignator=M3_2
+Change Component Designator: OldDesignator= NewDesignator=M3_3
+Change Component Designator: OldDesignator= NewDesignator=M3_4
+Change Net Name : Old Net Name=Net_7 New Net Name=NetCOM1_7
+Change Net Name : Old Net Name=Net_9 New Net Name=NetCOM1_9
+Change Net Name : Old Net Name=Net_11 New Net Name=NetCOM1_11
+Added Member To Class: ClassName=connectV1.1 Member=Component COM1 Header 6X2
+Added Member To Class: ClassName=connectV1.1 Member=Component COM2 Component_2
+Added Member To Class: ClassName=connectV1.1 Member=Component M3_2 M3
+Added Member To Class: ClassName=connectV1.1 Member=Component M3_3 M3
+Added Member To Class: ClassName=connectV1.1 Member=Component M3_4 M3
+Added Room: Name=connectV1.1
+Added Room: Name=DNJLV1.1
+Added Room: Name=JDQV1.1

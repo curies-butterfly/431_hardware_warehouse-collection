@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=5V Pin=C?-1
+Removed Pin From Net: NetName=12V Pin=C?-1
+Removed Pin From Net: NetName=DGND Pin=C?-2
+Removed Pin From Net: NetName=DGND Pin=C?-2
+Change Component Footprint: Designator=C? Old Footprint=CAP 3.5*8*11.5 New Footprint=C 0805_M
+Change Component Footprint: Designator=C? Old Footprint=CAP 3.5*8*11.5 New Footprint=C 0805_M
+Change Component Footprint: Designator=L? Old Footprint=CD54 New Footprint=L-SMD-0630
+Change Component Comment : Designator=C? Old Comment= New Comment=22uF
+Change Component Comment : Designator=C? Old Comment= New Comment=22uF
+Change component parameters: Designator = "C?" ("C?"); Footprint = "CAP 3.5*8*11.5"; UniqueID = "\XOFMLKYN" ("\XOFMLKYN")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C?" ("C?"); Footprint = "CAP 3.5*8*11.5"; UniqueID = "\PMMDYBMV" ("\PMMDYBMV")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP 3.5*8*11.5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOP8)
+Added Pin To Net: NetName=12V Pin=C?-1
+Added Pin To Net: NetName=DGND Pin=C?-1
+Added Pin To Net: NetName=DGND Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=DGND Pin=C?-2
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component C? 0.1uF
+Added Member To Class: ClassName=connectV1.1 Member=Component C?
+Added Member To Class: ClassName=connectV1.1 Member=Component C? 22uF
+Added Member To Class: ClassName=connectV1.1 Member=Component CF? 0.1uF
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component R? 19.1K
+Added Member To Class: ClassName=connectV1.1 Member=Component R? 100K
+Added Member To Class: ClassName=connectV1.1 Member=Component U? PW2815
+Added Member To Class: ClassName=connectV1.1 Member=Component U? PW2815

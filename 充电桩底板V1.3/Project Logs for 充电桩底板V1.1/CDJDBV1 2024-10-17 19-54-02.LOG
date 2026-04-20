@@ -1,0 +1,196 @@
+Removed Pin From Net: NetName=JDQ5_2 Pin=IC1-1
+Removed Pin From Net: NetName=JDQ6_1 Pin=IC1-2
+Removed Pin From Net: NetName=JDQ6_2 Pin=IC1-3
+Removed Pin From Net: NetName=JDQ7_1 Pin=IC1-4
+Removed Pin From Net: NetName=JDQ7_2 Pin=IC1-5
+Removed Pin From Net: NetName=JDQ8_1 Pin=IC1-6
+Removed Pin From Net: NetName=JDQ8_2 Pin=IC1-7
+Removed Pin From Net: NetName=DGND Pin=IC1-8
+Removed Pin From Net: NetName=D3.3V Pin=IC1-10
+Removed Pin From Net: NetName=DGND Pin=IC1-13
+Removed Pin From Net: NetName=JDQ5_1 Pin=IC1-15
+Removed Pin From Net: NetName=D3.3V Pin=IC1-16
+Removed Pin From Net: NetName=JDQ9_2 Pin=IC2-1
+Removed Pin From Net: NetName=JDQ10_1 Pin=IC2-2
+Removed Pin From Net: NetName=JDQ10_2 Pin=IC2-3
+Removed Pin From Net: NetName=JDQ11_1 Pin=IC2-4
+Removed Pin From Net: NetName=JDQ11_2 Pin=IC2-5
+Removed Pin From Net: NetName=JDQ12_1 Pin=IC2-6
+Removed Pin From Net: NetName=JDQ12_2 Pin=IC2-7
+Removed Pin From Net: NetName=DGND Pin=IC2-8
+Removed Pin From Net: NetName=D3.3V Pin=IC2-10
+Removed Pin From Net: NetName=DGND Pin=IC2-13
+Removed Pin From Net: NetName=JDQ9_1 Pin=IC2-15
+Removed Pin From Net: NetName=D3.3V Pin=IC2-16
+Removed Pin From Net: NetName=JDQ1_2 Pin=IC3-1
+Removed Pin From Net: NetName=JDQ2_1 Pin=IC3-2
+Removed Pin From Net: NetName=JDQ2_2 Pin=IC3-3
+Removed Pin From Net: NetName=JDQ3_1 Pin=IC3-4
+Removed Pin From Net: NetName=JDQ3_2 Pin=IC3-5
+Removed Pin From Net: NetName=JDQ4_1 Pin=IC3-6
+Removed Pin From Net: NetName=JDQ4_2 Pin=IC3-7
+Removed Pin From Net: NetName=DGND Pin=IC3-8
+Removed Pin From Net: NetName=D3.3V Pin=IC3-10
+Removed Pin From Net: NetName=DGND Pin=IC3-13
+Removed Pin From Net: NetName=JDQ1_1 Pin=IC3-15
+Removed Pin From Net: NetName=D3.3V Pin=IC3-16
+Removed Member From Class: ClassName=JDQV1.1 Member=IC1
+Removed Member From Class: ClassName=JDQV1.1 Member=IC2
+Removed Member From Class: ClassName=JDQV1.1 Member=IC3
+Added Component: Designator=C?(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TSSOP-24)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Frequency"; Value = "400kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170928/C133183_1506599719478995066.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "PCA9555PW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C；SMBus"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interrupt Output"; Value = "有中断输出"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "带中断的16位I2C总线和SMBus I/O端口"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP(恩智浦)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "PCA9555PW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I/O"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Sink Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Source current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "推挽式"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "TSSOP-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C128392"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage"; Value = "2.3V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "PCA9555PW,118"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TSSOP-24)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Frequency"; Value = "400kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170928/C133183_1506599719478995066.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "PCA9555PW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C；SMBus"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interrupt Output"; Value = "有中断输出"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "带中断的16位I2C总线和SMBus I/O端口"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP(恩智浦)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "PCA9555PW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I/O"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Sink Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Source current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "推挽式"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "TSSOP-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C128392"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage"; Value = "2.3V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "PCA9555PW,118"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=C?-1
+Added Pin To Net: NetName=DGND Pin=C?-1
+Added Pin To Net: NetName=DGND Pin=C?-1
+Added Pin To Net: NetName=DGND Pin=C?-1
+Added Pin To Net: NetName=D3.3V Pin=C?-2
+Added Pin To Net: NetName=D3.3V Pin=C?-2
+Added Pin To Net: NetName=D3.3V Pin=C?-2
+Added Pin To Net: NetName=D3.3V Pin=C?-2
+Added Pin To Net: NetName=D3.3V Pin=R?-1
+Added Pin To Net: NetName=D3.3V Pin=R?-1
+Added Pin To Net: NetName=D3.3V Pin=R?-1
+Added Pin To Net: NetName=DGND Pin=U4-1
+Added Pin To Net: NetName=DGND Pin=U4-2
+Added Pin To Net: NetName=DGND Pin=U4-3
+Added Pin To Net: NetName=DGND Pin=U4-4
+Added Pin To Net: NetName=DGND Pin=U?-2
+Added Pin To Net: NetName=DGND Pin=U?-2
+Added Pin To Net: NetName=DGND Pin=U?-3
+Added Pin To Net: NetName=DGND Pin=U?-3
+Added Pin To Net: NetName=JDQ1_1 Pin=U?-4
+Added Pin To Net: NetName=JDQ9_1 Pin=U?-4
+Added Pin To Net: NetName=JDQ1_2 Pin=U?-5
+Added Pin To Net: NetName=JDQ2_1 Pin=U?-6
+Added Pin To Net: NetName=JDQ10_1 Pin=U?-6
+Added Pin To Net: NetName=JDQ2_2 Pin=U?-7
+Added Pin To Net: NetName=JDQ10_2 Pin=U?-7
+Added Pin To Net: NetName=JDQ3_1 Pin=U?-8
+Added Pin To Net: NetName=JDQ11_1 Pin=U?-8
+Added Pin To Net: NetName=JDQ3_2 Pin=U?-9
+Added Pin To Net: NetName=JDQ11_2 Pin=U?-9
+Added Pin To Net: NetName=JDQ4_1 Pin=U?-10
+Added Pin To Net: NetName=JDQ12_1 Pin=U?-10
+Added Pin To Net: NetName=JDQ4_2 Pin=U?-11
+Added Pin To Net: NetName=JDQ12_2 Pin=U?-11
+Added Pin To Net: NetName=DGND Pin=U?-12
+Added Pin To Net: NetName=JDQ5_1 Pin=U?-13
+Added Pin To Net: NetName=JDQ5_2 Pin=U?-14
+Added Pin To Net: NetName=JDQ6_1 Pin=U?-15
+Added Pin To Net: NetName=JDQ6_2 Pin=U?-16
+Added Pin To Net: NetName=JDQ7_1 Pin=U?-17
+Added Pin To Net: NetName=JDQ7_2 Pin=U?-18
+Added Pin To Net: NetName=JDQ8_1 Pin=U?-19
+Added Pin To Net: NetName=JDQ8_2 Pin=U?-20
+Added Pin To Net: NetName=D3.3V Pin=U?-21
+Added Pin To Net: NetName=DGND Pin=U?-21
+Added Pin To Net: NetName=D3.3V Pin=U?-24
+Added Pin To Net: NetName=D3.3V Pin=U?-24
+Added Pin To Net: NetName=JDQ_I2C_INT Pin=COM1-11
+Added Pin To Net: NetName=JDQ_I2C_INT Pin=R?-2
+Added Pin To Net: NetName=JDQ_I2C_INT Pin=U?-1
+Added Pin To Net: NetName=JDQ_I2C_INT Pin=U?-1
+Added Net: Name=JDQ_I2C_INT
+Added Pin To Net: NetName=JDQ_I2C_SCL Pin=COM1-7
+Added Pin To Net: NetName=JDQ_I2C_SCL Pin=R?-2
+Added Pin To Net: NetName=JDQ_I2C_SCL Pin=U?-22
+Added Pin To Net: NetName=JDQ_I2C_SCL Pin=U?-22
+Added Net: Name=JDQ_I2C_SCL
+Added Pin To Net: NetName=JDQ_I2C_SDA Pin=COM1-9
+Added Pin To Net: NetName=JDQ_I2C_SDA Pin=R?-2
+Added Pin To Net: NetName=JDQ_I2C_SDA Pin=U?-23
+Added Pin To Net: NetName=JDQ_I2C_SDA Pin=U?-23
+Added Net: Name=JDQ_I2C_SDA
+Added Member To Class: ClassName=JDQV1.1 Member=Component C? 104
+Added Member To Class: ClassName=JDQV1.1 Member=Component C? 105
+Added Member To Class: ClassName=JDQV1.1 Member=Component C? 104
+Added Member To Class: ClassName=JDQV1.1 Member=Component C? 105
+Added Member To Class: ClassName=JDQV1.1 Member=Component R? 4.7K
+Added Member To Class: ClassName=JDQV1.1 Member=Component R? 4.7K
+Added Member To Class: ClassName=JDQV1.1 Member=Component R? 4.7K
+Added Member To Class: ClassName=JDQV1.1 Member=Component U? PCA9555PW,118
+Added Member To Class: ClassName=JDQV1.1 Member=Component U? PCA9555PW,118
+Added Room: Name=DNJLV1.1

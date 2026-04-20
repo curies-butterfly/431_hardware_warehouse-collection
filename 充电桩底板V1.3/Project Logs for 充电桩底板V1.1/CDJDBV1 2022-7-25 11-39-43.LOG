@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=AC_L Pin=JP?-1
+Added Pin To Net: NetName=AC_L Pin=JP?-2
+Added Pin To Net: NetName=AC_L Pin=JP?-3
+Added Pin To Net: NetName=AC_L Pin=JP?-4
+Added Net: Name=AC_L
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2

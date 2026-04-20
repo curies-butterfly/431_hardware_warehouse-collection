@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=L1_GND Pin=JP3-2
+Removed Pin From Net: NetName=L2_GND Pin=JP6-2
+Removed Pin From Net: NetName=L3_GND Pin=JP8-2
+Change Component Footprint: Designator=U9 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Added Pin To Net: NetName=NetF1_1 Pin=JP3-2
+Added Pin To Net: NetName=NetF2_1 Pin=JP6-2
+Added Pin To Net: NetName=NetF3_1 Pin=JP8-2
+Change Net Name : Old Net Name=NetF1_1 New Net Name=L_IN_1
+Change Net Name : Old Net Name=NetF2_1 New Net Name=L_IN_2
+Change Net Name : Old Net Name=NetF3_1 New Net Name=L_IN_3
+Added Member To Class: ClassName=connectV1.1 Member=Component  Header 6X2
+Added Member To Class: ClassName=connectV1.1 Member=Component  M3
+Added Member To Class: ClassName=connectV1.1 Member=Component  Component_2
+Added Member To Class: ClassName=connectV1.1 Member=Component  M3
+Added Member To Class: ClassName=connectV1.1 Member=Component  M3

@@ -1,0 +1,27 @@
+Added Component: Designator=IC5(SOP22_M)
+Added Pin To Net: NetName=R8 Pin=IC5-2
+Added Pin To Net: NetName=R7 Pin=IC5-3
+Added Pin To Net: NetName=R6 Pin=IC5-4
+Added Pin To Net: NetName=R5 Pin=IC5-5
+Added Pin To Net: NetName=R4 Pin=IC5-6
+Added Pin To Net: NetName=R3 Pin=IC5-7
+Added Pin To Net: NetName=R2 Pin=IC5-8
+Added Pin To Net: NetName=R1 Pin=IC5-9
+Added Pin To Net: NetName=SEL_A Pin=IC5-10
+Added Pin To Net: NetName=SEL_B Pin=IC5-11
+Added Pin To Net: NetName=AC_GND Pin=IC5-12
+Added Pin To Net: NetName=SEL_D Pin=IC5-13
+Added Pin To Net: NetName=SEL_C Pin=IC5-14
+Added Pin To Net: NetName=AC_GND Pin=IC5-15
+Added Pin To Net: NetName=R12 Pin=IC5-20
+Added Pin To Net: NetName=R11 Pin=IC5-21
+Added Pin To Net: NetName=R10 Pin=IC5-22
+Added Pin To Net: NetName=RX Pin=IC5-1
+Added Net: Name=RX
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=DNJLV1.1 Member=Component IC5 CD4067BM96
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2

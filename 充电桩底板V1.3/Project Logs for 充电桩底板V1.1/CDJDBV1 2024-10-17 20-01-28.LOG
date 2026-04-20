@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=JDQ8_1 Pin=U44-19
+Removed Pin From Net: NetName=JDQ8_2 Pin=U44-20
+Added Pin To Net: NetName=JDQ8_1 Pin=U45-13
+Added Pin To Net: NetName=JDQ8_2 Pin=U45-14
+Added Member To Class: ClassName=JDQV1.1 Member=Component C62 105
+Added Member To Class: ClassName=JDQV1.1 Member=Component R112 4.7K

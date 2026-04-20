@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=L1_GND Pin=JP3-1
+Added Pin To Net: NetName=L1_GND Pin=JP3-2
+Added Room: Name=connectV1.1
+Added Room: Name=DNJLV1.1
+Added Room: Name=JDQV1.1

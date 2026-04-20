@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=SEL_B Pin=JP1-3
+Added Pin To Net: NetName=SEL_C Pin=JP1-4
+Added Pin To Net: NetName=SEL_A Pin=JP1-5
+Added Pin To Net: NetName=SEL_D Pin=JP1-6
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3

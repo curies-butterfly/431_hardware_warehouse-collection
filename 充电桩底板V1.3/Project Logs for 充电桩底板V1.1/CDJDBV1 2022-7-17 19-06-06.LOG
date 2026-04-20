@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=DNJLV1.1 Member=IC1
+Added Component: Designator=JP2(KF7620-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=DNJLV1.1 Member=Component C32 0.1uF
+Added Member To Class: ClassName=connectV1.1 Member=Component E2 47uF/10V
+Added Member To Class: ClassName=JDQV1.1 Member=Component F11 2A
+Added Member To Class: ClassName=DNJLV1.1 Member=Component IC5 CD4067BM96
+Added Member To Class: ClassName=JDQV1.1 Member=Component JK12 HF
+Added Member To Class: ClassName=connectV1.1 Member=Component JP2 HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP3 HDR-1X2
+Added Member To Class: ClassName=DNJLV1.1 Member=Component M？2 HLK-PM03
+Added Member To Class: ClassName=DNJLV1.1 Member=Component R26 2K
+Added Member To Class: ClassName=DNJLV1.1 Member=Component U28 PC817

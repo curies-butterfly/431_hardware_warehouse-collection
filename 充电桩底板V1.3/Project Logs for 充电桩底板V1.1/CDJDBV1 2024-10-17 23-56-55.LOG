@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=NetJP10_1 Pin=JP10-1
+Added Pin To Net: NetName=NetJP10_1 Pin=U46-37
+Added Net: Name=NetJP10_1
+Added Pin To Net: NetName=NetJP10_2 Pin=JP10-2
+Added Pin To Net: NetName=NetJP10_2 Pin=U46-34
+Added Net: Name=NetJP10_2
+Added Pin To Net: NetName=NetJP10_4 Pin=JP10-4
+Added Pin To Net: NetName=NetJP10_4 Pin=U46-31
+Added Net: Name=NetJP10_4
+Added Pin To Net: NetName=NetJP10_5 Pin=JP10-5
+Added Pin To Net: NetName=NetJP10_5 Pin=U46-30
+Added Net: Name=NetJP10_5

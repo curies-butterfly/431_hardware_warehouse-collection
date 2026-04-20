@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=L1_1 Pin=F1-1
+Added Pin To Net: NetName=L1_2 Pin=F2-1
+Added Pin To Net: NetName=L1_3 Pin=F3-1
+Added Pin To Net: NetName=L2_1 Pin=F5-1
+Added Pin To Net: NetName=L2_3 Pin=F7-1
+Added Pin To Net: NetName=L3_2 Pin=F10-1
+Added Pin To Net: NetName=L1_4 Pin=R4-2
+Added Pin To Net: NetName=L1_4 Pin=R8-1
+Added Pin To Net: NetName=L2_2 Pin=R36-2
+Added Pin To Net: NetName=L2_4 Pin=R38-2
+Added Pin To Net: NetName=L2_2 Pin=R40-1
+Added Pin To Net: NetName=L2_4 Pin=R42-1
+Added Pin To Net: NetName=L3_1 Pin=R69-2
+Added Pin To Net: NetName=L3_3 Pin=R71-2
+Added Pin To Net: NetName=L3_4 Pin=R72-2
+Added Pin To Net: NetName=L3_1 Pin=R73-1
+Added Pin To Net: NetName=L3_3 Pin=R75-1
+Added Pin To Net: NetName=L3_4 Pin=R76-1
+Added Room: Name=connectV1.1
+Added Room: Name=DNJLV1.1
+Added Room: Name=JDQV1.1

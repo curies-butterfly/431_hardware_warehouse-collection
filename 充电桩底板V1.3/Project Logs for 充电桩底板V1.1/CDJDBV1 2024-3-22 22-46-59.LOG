@@ -1,0 +1,13 @@
+Added Component: Designator=M3_5(M3 125X200)
+Add component (AddParameter): Name = "BOM名称"; Value = "铜柱孔"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=M3_6(M3 125X200)
+Add component (AddParameter): Name = "BOM名称"; Value = "铜柱孔"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=connectV1.1 Member=Component M3_5 M3
+Added Member To Class: ClassName=connectV1.1 Member=Component M3_6 M3
+Added Room: Name=connectV1.1
+Added Room: Name=DNJLV1.1
+Added Room: Name=JDQV1.1

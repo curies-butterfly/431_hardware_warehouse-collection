@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=232_TX Pin=IC2-13
+Removed Pin From Net: NetName=232_RX Pin=IC2-14
+Removed Pin From Net: NetName=DSP_RX Pin=R105-2
+Removed Pin From Net: NetName=AT_RX Pin=R113-1
+Removed Pin From Net: NetName=DSP_TX Pin=R114-2
+Removed Pin From Net: NetName=AT_TX Pin=R115-1
+Removed Pin From Net: NetName=AT3_TX Pin=R116-1
+Removed Pin From Net: NetName=DSP_RX Pin=R116-2
+Removed Pin From Net: NetName=AT3_RX Pin=R117-1
+Removed Pin From Net: NetName=DSP_TX Pin=R117-2
+Removed Pin From Net: NetName=DSP_RX Pin=R122-1
+Removed Pin From Net: NetName=232_TX Pin=R122-2
+Removed Pin From Net: NetName=DSP_TX Pin=R123-1
+Removed Pin From Net: NetName=232_RX Pin=R123-2
+Added Pin To Net: NetName=232_RX Pin=IC2-13
+Added Pin To Net: NetName=232_TX Pin=IC2-14
+Added Pin To Net: NetName=DSP_RX Pin=R105-1
+Added Pin To Net: NetName=232_TX Pin=R105-2
+Added Pin To Net: NetName=DSP_TX Pin=R113-1
+Added Pin To Net: NetName=232_RX Pin=R113-2
+Added Pin To Net: NetName=DSP_TX Pin=R114-1
+Added Pin To Net: NetName=AT3_RX Pin=R114-2
+Added Pin To Net: NetName=DSP_RX Pin=R115-1
+Added Pin To Net: NetName=AT3_TX Pin=R115-2
+Added Pin To Net: NetName=DSP_RX Pin=R116-1
+Added Pin To Net: NetName=DSP_TX Pin=R117-1
+Added Pin To Net: NetName=DSP_RX Pin=R122-2
+Added Pin To Net: NetName=DSP_TX Pin=R123-2
+Added Pin To Net: NetName=AT_RX Pin=U42-13
+Added Pin To Net: NetName=AT_RX Pin=U42-14
+Added Pin To Net: NetName=AT_TX Pin=U43-13
+Added Pin To Net: NetName=AT_TX Pin=U43-14
+Added Pin To Net: NetName=NetIC2_7 Pin=IC2-7
+Added Pin To Net: NetName=NetIC2_7 Pin=R122-1
+Added Net: Name=NetIC2_7
+Added Pin To Net: NetName=NetIC2_8 Pin=IC2-8
+Added Pin To Net: NetName=NetIC2_8 Pin=R123-1
+Added Net: Name=NetIC2_8
+Added Pin To Net: NetName=NetIC2_9 Pin=IC2-9
+Added Pin To Net: NetName=NetIC2_9 Pin=R117-2
+Added Net: Name=NetIC2_9
+Added Pin To Net: NetName=NetIC2_10 Pin=IC2-10
+Added Pin To Net: NetName=NetIC2_10 Pin=R116-2
+Added Net: Name=NetIC2_10
+Added Room: Name=connectV1.1
+Added Room: Name=DNJLV1.1
+Added Room: Name=JDQV1.1

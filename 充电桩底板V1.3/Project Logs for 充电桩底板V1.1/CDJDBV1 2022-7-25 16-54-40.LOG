@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=DGND Pin=IC4-12
+Added Pin To Net: NetName=DGND Pin=IC4-15
+Added Pin To Net: NetName=DGND Pin=IC5-12
+Added Pin To Net: NetName=DGND Pin=IC5-15
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=JDQV1.1 Member=Component IC3 74HC595
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=IC5 Old Footprint=SOP22_M New Footprint=SOP24_M
+Added Pin To Net: NetName=R9 Pin=IC5-23
+Added Pin To Net: NetName=+3.3_AC Pin=IC5-24
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=DNJLV1.1 Member=Component IC5 CD4067BM96
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2

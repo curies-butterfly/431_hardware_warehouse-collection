@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=3.3V_3 Pin=R81-2
+Added Pin To Net: NetName=3.3V_3 Pin=R83-2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2

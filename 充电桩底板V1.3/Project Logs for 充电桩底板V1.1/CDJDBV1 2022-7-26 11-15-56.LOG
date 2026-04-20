@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=DGND Pin=JP1-1
+Removed Pin From Net: NetName=5V Pin=JP1-2
+Removed Pin From Net: NetName=NetIC1_12 Pin=JP1-9
+Removed Pin From Net: NetName=NetIC1_11 Pin=JP1-11
+Removed Pin From Net: NetName=NetIC3_14 Pin=JP1-12
+Added Pin To Net: NetName=RX Pin=JP1-1
+Added Pin To Net: NetName=TX Pin=JP1-2
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3

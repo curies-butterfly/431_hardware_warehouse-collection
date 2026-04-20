@@ -1,0 +1,49 @@
+Change Component Footprint: Designator=C57 Old Footprint=CAP 2.5*5*11 - GD New Footprint=RB7.6-15
+Change Component Footprint: Designator=L1 Old Footprint=L-SMD-0630 New Footprint=AL0204
+Change Component Footprint: Designator=U9 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U10 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U11 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U12 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U13 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U14 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U15 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U16 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U21 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U22 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U23 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U24 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U25 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U26 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U27 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U28 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U33 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U34 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U35 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U36 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U37 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U38 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U39 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U40 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U5 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U6 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U7 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U8 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U17 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U18 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U19 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U20 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U29 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U30 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U31 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U32 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Comment : Designator=R110 Old Comment=4.7K New Comment=1K
+Change Component Comment : Designator=R111 Old Comment=4.7K New Comment=1K
+Change Component Comment : Designator=R112 Old Comment=4.7K New Comment=1K
+Change Component Comment : Designator=R108 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R109 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=C58 Old Comment=105 New Comment=104
+Change Component Comment : Designator=C60 Old Comment=105 New Comment=104
+Change Component Comment : Designator=C62 Old Comment=105 New Comment=104
+Change Component Comment : Designator=C64 Old Comment=105 New Comment=104
+Added Pin To Net: NetName=DGND Pin=U42-25
+Added Pin To Net: NetName=DGND Pin=U43-25

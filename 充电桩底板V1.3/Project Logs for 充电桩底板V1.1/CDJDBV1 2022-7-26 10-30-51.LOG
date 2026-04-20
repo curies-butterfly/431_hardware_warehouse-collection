@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=E1 Old Footprint=CD A(3216) New Footprint=CD C(6032)
+Change Component Footprint: Designator=E2 Old Footprint=CD A(3216) New Footprint=CD C(6032)
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component CF2 0.1uF
+Added Member To Class: ClassName=connectV1.1 Member=Component R105 19.1K

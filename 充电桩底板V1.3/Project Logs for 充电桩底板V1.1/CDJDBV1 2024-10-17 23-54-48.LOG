@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=DGND Pin=JP10-3
+Removed Pin From Net: NetName=D3.3V Pin=JP10-6
+Removed Member From Class: ClassName=connectV1.1 Member=JP10
+Added Component: Designator=JP?(HDR2.54-LI-6P)
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=JP?-3
+Added Pin To Net: NetName=D3.3V Pin=JP?-6
+Added Pin To Net: NetName=NetJP?_1 Pin=JP?-1
+Added Pin To Net: NetName=NetJP?_1 Pin=U46-31
+Added Net: Name=NetJP?_1
+Added Pin To Net: NetName=NetJP?_2 Pin=JP?-2
+Added Pin To Net: NetName=NetJP?_2 Pin=U46-30
+Added Net: Name=NetJP?_2
+Added Pin To Net: NetName=NetJP?_4 Pin=JP?-4
+Added Pin To Net: NetName=NetJP?_4 Pin=U46-17
+Added Net: Name=NetJP?_4
+Added Pin To Net: NetName=NetJP?_5 Pin=JP?-5
+Added Pin To Net: NetName=NetJP?_5 Pin=U46-16
+Added Net: Name=NetJP?_5
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X6
+Added Member To Class: ClassName=connectV1.1 Member=Component U46 STM32F103C8T6

@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=connectV1.1 Member=JP3
+Added Component: Designator=JP?(KF7620-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2

@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C62
+Change Component Designator: OldDesignator=C? NewDesignator=C63
+Change Component Designator: OldDesignator=C? NewDesignator=C64
+Change Component Designator: OldDesignator=C? NewDesignator=C65
+Change Component Designator: OldDesignator=R? NewDesignator=R110
+Change Component Designator: OldDesignator=R? NewDesignator=R111
+Change Component Designator: OldDesignator=R? NewDesignator=R112
+Change Component Designator: OldDesignator=U? NewDesignator=U44
+Change Component Designator: OldDesignator=U? NewDesignator=U45
+Added Pin To Net: NetName=JDQ9_2 Pin=U45-5
+Added Member To Class: ClassName=JDQV1.1 Member=Component C63 104
+Added Member To Class: ClassName=JDQV1.1 Member=Component C64 105
+Added Member To Class: ClassName=JDQV1.1 Member=Component C65 104
+Added Member To Class: ClassName=JDQV1.1 Member=Component R110 4.7K
+Added Member To Class: ClassName=JDQV1.1 Member=Component R111 4.7K
+Added Member To Class: ClassName=JDQV1.1 Member=Component U45 PCA9555PW,118

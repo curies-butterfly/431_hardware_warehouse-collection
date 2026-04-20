@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=DGND Pin=JP?-3
+Removed Pin From Net: NetName=D3.3V Pin=JP?-6
+Removed Pin From Net: NetName=JDQ_I2C_INT Pin=U46-19
+Removed Pin From Net: NetName=JDQ_I2C_SCL Pin=U46-20
+Removed Pin From Net: NetName=NetC73_2 Pin=U46-26
+Removed Pin From Net: NetName=NetC74_2 Pin=U46-27
+Removed Pin From Net: NetName=JDQ_I2C_SDA Pin=U46-39
+Removed Pin From Net: NetName=AT3_TX Pin=U46-43
+Removed Member From Class: ClassName=connectV1.1 Member=JP?
+Added Component: Designator=JP10(HDR2.54-LI-6P)
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=JP10-3
+Added Pin To Net: NetName=D3.3V Pin=JP10-6
+Added Pin To Net: NetName=NetC73_2 Pin=U46-5
+Added Pin To Net: NetName=NetC74_2 Pin=U46-6
+Added Pin To Net: NetName=BOOT1 Pin=U46-20
+Added Pin To Net: NetName=AT3_TX Pin=U46-21
+Added Pin To Net: NetName=AT3_RX Pin=U46-22
+Added Pin To Net: NetName=JDQ_I2C_INT Pin=U46-41
+Added Pin To Net: NetName=JDQ_I2C_SCL Pin=U46-42
+Added Pin To Net: NetName=JDQ_I2C_SDA Pin=U46-43
+Added Pin To Net: NetName=NetR120_2 Pin=R120-2
+Added Pin To Net: NetName=NetR120_2 Pin=U46-44
+Added Net: Name=NetR120_2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP10 HDR-1X6

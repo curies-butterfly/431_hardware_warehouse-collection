@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=AC_N Pin=JP3-1
+Removed Pin From Net: NetName=AC_N Pin=JP6-1
+Removed Pin From Net: NetName=AC_N Pin=JP8-1
+Removed Pin From Net: NetName=AC_N Pin=R21-2
+Removed Pin From Net: NetName=AC_N Pin=R55-2
+Removed Pin From Net: NetName=AC_N Pin=R89-2
+Added Pin To Net: NetName=AC_N1 Pin=JP3-1
+Added Pin To Net: NetName=AC_N1 Pin=R21-2
+Added Net: Name=AC_N1
+Added Pin To Net: NetName=AC_N2 Pin=JP6-1
+Added Pin To Net: NetName=AC_N2 Pin=R55-2
+Added Net: Name=AC_N2
+Added Pin To Net: NetName=AC_N3 Pin=JP8-1
+Added Pin To Net: NetName=AC_N3 Pin=R89-2
+Added Net: Name=AC_N3

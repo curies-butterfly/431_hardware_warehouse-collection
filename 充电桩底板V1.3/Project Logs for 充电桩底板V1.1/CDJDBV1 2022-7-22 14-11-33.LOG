@@ -1,0 +1,16 @@
+Added Component: Designator=JP?(KF7620-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(KF7620-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=K2_1 Pin=JP?-1
+Added Pin To Net: NetName=L2_GND Pin=JP?-1
+Added Pin To Net: NetName=K2_2 Pin=JP?-2
+Added Pin To Net: NetName=L2_GND Pin=JP?-2
+Added Pin To Net: NetName=K2_3 Pin=JP?-3
+Added Pin To Net: NetName=K2_4 Pin=JP?-4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4

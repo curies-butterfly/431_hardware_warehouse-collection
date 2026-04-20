@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=3.3V_2 Pin=R47-2
+Added Pin To Net: NetName=3.3V_2 Pin=R48-2
+Added Pin To Net: NetName=3.3V_2 Pin=R49-2
+Added Pin To Net: NetName=3.3V_2 Pin=R50-2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Room: Name=connectV1.1
+Added Room: Name=DNJLV1.1
+Added Room: Name=JDQV1.1

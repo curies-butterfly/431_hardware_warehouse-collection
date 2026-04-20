@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=5V Pin=E4-1
+Removed Pin From Net: NetName=AGND Pin=E4-2
+Removed Member From Class: ClassName=connectV1.1 Member=E4

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=L1 Old Footprint=AL0204 New Footprint=L-SMD-0630
+Change Component Footprint: Designator=C57 Old Footprint=RB7.6-15 New Footprint=CAP 2.5*5*11 - GD
+Added Room: Name=connectV1.1
+Added Room: Name=DNJLV1.1
+Added Room: Name=JDQV1.1

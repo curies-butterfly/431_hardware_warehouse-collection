@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=JDQ_I2C_SCL Pin=COM1-7
+Removed Pin From Net: NetName=JDQ_I2C_SDA Pin=COM1-9
+Change Component Designator: OldDesignator=   NewDesignator=U17
+Change Component Designator: OldDesignator=   NewDesignator=U31
+Added Pin To Net: NetName=JDQ_I2C_SDA Pin=COM1-7
+Added Pin To Net: NetName=JDQ_I2C_SCL Pin=COM1-9
+Added Member To Class: ClassName=DNJLV1.1 Member=Component U17 HLW8110

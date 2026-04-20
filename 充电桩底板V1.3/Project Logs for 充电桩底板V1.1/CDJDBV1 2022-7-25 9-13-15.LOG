@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=JDQ12_1 Pin=U3-2
+Removed Pin From Net: NetName=JDQ12_1out Pin=U3-15
+Added Pin To Net: NetName=JDQ12_1 Pin=U3-1
+Added Pin To Net: NetName=JDQ11_2 Pin=U3-2
+Added Pin To Net: NetName=JDQ11_2out Pin=U3-15
+Added Pin To Net: NetName=JDQ12_1out Pin=U3-16
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2

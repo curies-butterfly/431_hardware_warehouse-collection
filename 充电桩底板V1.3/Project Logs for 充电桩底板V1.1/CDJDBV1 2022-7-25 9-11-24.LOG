@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=JDQ8_1 Pin=U3-1
+Removed Pin From Net: NetName=JDQ8_2 Pin=U3-2
+Removed Pin From Net: NetName=JDQ9_1 Pin=U3-3
+Removed Pin From Net: NetName=JDQ9_2 Pin=U3-4
+Removed Pin From Net: NetName=JDQ10_2 Pin=U3-6
+Removed Pin From Net: NetName=JDQ11_1 Pin=U3-7
+Removed Pin From Net: NetName=JDQ11_1out Pin=U3-10
+Removed Pin From Net: NetName=JDQ10_2out Pin=U3-11
+Removed Pin From Net: NetName=JDQ9_2out Pin=U3-13
+Removed Pin From Net: NetName=JDQ9_1out Pin=U3-14
+Removed Pin From Net: NetName=JDQ8_2out Pin=U3-15
+Removed Pin From Net: NetName=JDQ8_1out Pin=U3-16
+Removed Pin From Net: NetName=JDQ11_2 Pin=U4-1
+Removed Pin From Net: NetName=JDQ12_1 Pin=U4-2
+Removed Pin From Net: NetName=JDQ12_2 Pin=U4-3
+Removed Pin From Net: NetName=JDQ12_2out Pin=U4-14
+Removed Pin From Net: NetName=JDQ12_1out Pin=U4-15
+Removed Pin From Net: NetName=JDQ11_2out Pin=U4-16
+Added Pin To Net: NetName=JDQ12_1 Pin=U3-2
+Added Pin To Net: NetName=JDQ11_1 Pin=U3-3
+Added Pin To Net: NetName=JDQ10_2 Pin=U3-4
+Added Pin To Net: NetName=JDQ9_2 Pin=U3-6
+Added Pin To Net: NetName=JDQ9_1 Pin=U3-7
+Added Pin To Net: NetName=JDQ9_1out Pin=U3-10
+Added Pin To Net: NetName=JDQ9_2out Pin=U3-11
+Added Pin To Net: NetName=JDQ10_2out Pin=U3-13
+Added Pin To Net: NetName=JDQ11_1out Pin=U3-14
+Added Pin To Net: NetName=JDQ12_1out Pin=U3-15
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Room: Name=connectV1.1
+Added Room: Name=DNJLV1.1
+Added Room: Name=JDQV1.1

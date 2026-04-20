@@ -1,0 +1,76 @@
+Added Component: Designator=C78(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C79(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C80(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C81(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C82(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(TSSOP16_N)
+Add component (AddParameter): Name = "BOM名称"; Value = "RS232通讯芯片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=R122(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R123(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=C78-1
+Added Pin To Net: NetName=D3.3V Pin=C78-2
+Added Pin To Net: NetName=DGND Pin=C80-1
+Added Pin To Net: NetName=DGND Pin=C82-1
+Added Pin To Net: NetName=AT3_TX Pin=IC2-11
+Added Pin To Net: NetName=DGND Pin=IC2-15
+Added Pin To Net: NetName=D3.3V Pin=IC2-16
+Added Pin To Net: NetName=DSP_RX Pin=R122-1
+Added Pin To Net: NetName=DSP_TX Pin=R123-1
+Added Pin To Net: NetName=232_RX Pin=IC2-14
+Added Pin To Net: NetName=232_RX Pin=R123-2
+Added Net: Name=232_RX
+Added Pin To Net: NetName=232_TX Pin=IC2-13
+Added Pin To Net: NetName=232_TX Pin=R122-2
+Added Net: Name=232_TX
+Added Pin To Net: NetName=NetC79_1 Pin=C79-1
+Added Pin To Net: NetName=NetC79_1 Pin=IC2-1
+Added Net: Name=NetC79_1
+Added Pin To Net: NetName=NetC79_2 Pin=C79-2
+Added Pin To Net: NetName=NetC79_2 Pin=IC2-3
+Added Net: Name=NetC79_2
+Added Pin To Net: NetName=NetC80_2 Pin=C80-2
+Added Pin To Net: NetName=NetC80_2 Pin=IC2-2
+Added Net: Name=NetC80_2
+Added Pin To Net: NetName=NetC81_1 Pin=C81-1
+Added Pin To Net: NetName=NetC81_1 Pin=IC2-4
+Added Net: Name=NetC81_1
+Added Pin To Net: NetName=NetC81_2 Pin=C81-2
+Added Pin To Net: NetName=NetC81_2 Pin=IC2-5
+Added Net: Name=NetC81_2
+Added Pin To Net: NetName=NetC82_2 Pin=C82-2
+Added Pin To Net: NetName=NetC82_2 Pin=IC2-6
+Added Net: Name=NetC82_2
+Added Member To Class: ClassName=connectV1.1 Member=Component C78 104
+Added Member To Class: ClassName=connectV1.1 Member=Component C79 104
+Added Member To Class: ClassName=connectV1.1 Member=Component C80 104
+Added Member To Class: ClassName=connectV1.1 Member=Component C81 104
+Added Member To Class: ClassName=connectV1.1 Member=Component C82 104
+Added Member To Class: ClassName=connectV1.1 Member=Component IC2 SP3232
+Added Member To Class: ClassName=connectV1.1 Member=Component R122 22R
+Added Member To Class: ClassName=connectV1.1 Member=Component R123 22R
+Added Room: Name=connectV1.1
+Added Room: Name=DNJLV1.1
+Added Room: Name=JDQV1.1

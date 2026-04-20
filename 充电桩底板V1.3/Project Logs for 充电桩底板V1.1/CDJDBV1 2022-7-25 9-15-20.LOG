@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=JDQ12_2 Pin=U4-7
+Added Pin To Net: NetName=JDQ12_2out Pin=U4-10
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4

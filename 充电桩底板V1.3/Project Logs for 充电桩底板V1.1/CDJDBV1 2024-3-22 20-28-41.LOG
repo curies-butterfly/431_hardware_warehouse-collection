@@ -1,0 +1,86 @@
+Change Component Footprint: Designator=F1 Old Footprint=PPTC New Footprint=FU BLX-A
+Change Component Footprint: Designator=F2 Old Footprint=PPTC New Footprint=FU BLX-A
+Change Component Footprint: Designator=F3 Old Footprint=PPTC New Footprint=FU BLX-A
+Change Component Footprint: Designator=U9 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U10 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U11 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U12 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U13 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U14 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U15 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U16 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U21 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U22 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U23 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U24 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U25 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U26 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U27 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U28 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U33 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U34 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U35 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U36 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U37 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U38 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U39 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U40 Old Footprint=SOP4-W2.54_L New Footprint=DIP-4
+Change Component Footprint: Designator=U5 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U6 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U7 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U8 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U17 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U18 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U19 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U20 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U29 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U30 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U31 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Footprint: Designator=U32 Old Footprint=SOP8 New Footprint=HM8110
+Change Component Comment : Designator=F1 Old Comment=2A New Comment=5x20/2A
+Change Component Comment : Designator=F2 Old Comment=2A New Comment=5x20/2A
+Change Component Comment : Designator=F3 Old Comment=2A New Comment=5x20/2A
+Change Component Comment : Designator=R13 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R14 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R15 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R16 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R26 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R27 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R28 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R29 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R47 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R48 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R49 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R50 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R60 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R61 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R62 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R63 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R81 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R82 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R83 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R84 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R94 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R95 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R96 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R97 Old Comment=2K New Comment=1K
+Added Pin To Net: NetName=L1_GND Pin=F1-2
+Added Pin To Net: NetName=L2_GND Pin=F2-2
+Added Pin To Net: NetName=L3_GND Pin=F3-2
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=M£¿3-1
+Added Pin To Net: NetName=NetF1_1 Pin=M£¿3-3
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetF2_1 Pin=F2-1
+Added Pin To Net: NetName=NetF2_1 Pin=M£¿1-1
+Added Pin To Net: NetName=NetF2_1 Pin=M£¿1-3
+Added Net: Name=NetF2_1
+Added Pin To Net: NetName=NetF3_1 Pin=F3-1
+Added Pin To Net: NetName=NetF3_1 Pin=M£¿2-1
+Added Pin To Net: NetName=NetF3_1 Pin=M£¿2-3
+Added Net: Name=NetF3_1
+Added Member To Class: ClassName=connectV1.1 Member=Component  Component_2
+Added Member To Class: ClassName=connectV1.1 Member=Component  M3
+Added Member To Class: ClassName=connectV1.1 Member=Component  Header 6X2
+Added Member To Class: ClassName=connectV1.1 Member=Component  M3
+Added Member To Class: ClassName=connectV1.1 Member=Component  M3

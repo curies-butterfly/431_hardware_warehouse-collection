@@ -1,0 +1,101 @@
+Remove Pin=F1-2 From Net=L1_GND
+Remove Pin=F2-2 From Net=L2_GND
+Remove Pin=F3-2 From Net=L3_GND
+Remove Pin=JK1-4 From Net=L1_1
+Remove Pin=JK2-4 From Net=L1_2
+Remove Pin=JK3-4 From Net=L1_3
+Remove Pin=JK4-4 From Net=L1_4
+Remove Pin=JK5-4 From Net=L2_1
+Remove Pin=JK6-4 From Net=L2_2
+Remove Pin=JK7-4 From Net=L2_3
+Remove Pin=JK8-4 From Net=L2_4
+Remove Pin=JK9-4 From Net=L3_1
+Remove Pin=JK10-4 From Net=L3_2
+Remove Pin=JK11-4 From Net=L3_3
+Remove Pin=JK12-4 From Net=L3_4
+Change Component Footprint: Designator=L1 Old Footprint=AL0204 New Footprint=L-SMD-0630
+Change Component Footprint: Designator=U9 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U10 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U11 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U12 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U13 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U14 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U15 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U16 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U21 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U22 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U23 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U24 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U25 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U26 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U27 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U28 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U33 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U34 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U35 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U36 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U37 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U38 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U39 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=U40 Old Footprint=DIP-4 New Footprint=SOP4-W2.54_L
+Change Component Footprint: Designator=F1 Old Footprint=FU BLX-A New Footprint=PPTC
+Change Component Footprint: Designator=F2 Old Footprint=FU BLX-A New Footprint=PPTC
+Change Component Footprint: Designator=F3 Old Footprint=FU BLX-A New Footprint=PPTC
+Change Component Footprint: Designator=U5 Old Footprint=HM8110 New Footprint=SOP8
+Change Component Footprint: Designator=U6 Old Footprint=HM8110 New Footprint=SOP8
+Change Component Footprint: Designator=U7 Old Footprint=HM8110 New Footprint=SOP8
+Change Component Footprint: Designator=U8 Old Footprint=HM8110 New Footprint=SOP8
+Change Component Footprint: Designator=U17 Old Footprint=HM8110 New Footprint=SOP8
+Change Component Footprint: Designator=U18 Old Footprint=HM8110 New Footprint=SOP8
+Change Component Footprint: Designator=U19 Old Footprint=HM8110 New Footprint=SOP8
+Change Component Footprint: Designator=U20 Old Footprint=HM8110 New Footprint=SOP8
+Change Component Footprint: Designator=U29 Old Footprint=HM8110 New Footprint=SOP8
+Change Component Footprint: Designator=U30 Old Footprint=HM8110 New Footprint=SOP8
+Change Component Footprint: Designator=U31 Old Footprint=HM8110 New Footprint=SOP8
+Change Component Footprint: Designator=U32 Old Footprint=HM8110 New Footprint=SOP8
+Change Component Footprint: Designator=C57 Old Footprint=RB7.6-15 New Footprint=CAP 2.5*5*11 - GD
+Change Component Comment: Designator=R13 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R14 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R15 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R16 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R26 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R27 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R28 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R29 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R47 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R48 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R49 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R50 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R60 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R61 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R62 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R63 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R81 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R82 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R83 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R84 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R94 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R95 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R96 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R97 Old Comment=1K New Comment=2K
+Change Component Comment: Designator=R105 Old Comment=1K New Comment=19.1K
+Change Component Comment: Designator=R103 Old Comment=1K New Comment=100K
+Change Component Comment: Designator=R104 Old Comment=1K New Comment=100K
+Change Component Comment: Designator=F1 Old Comment=5x20/2A New Comment=2A
+Change Component Comment: Designator=F2 Old Comment=5x20/2A New Comment=2A
+Change Component Comment: Designator=F3 Old Comment=5x20/2A New Comment=2A
+Change Component Comment: Designator=L1 Old Comment=10uH New Comment=22uH
+Change Component Comment: Designator=C54 Old Comment=104 New Comment=0.1uF
+Change Component Comment: Designator=CF1 Old Comment=104 New Comment=0.1uF
+Change Component Comment: Designator=CF2 Old Comment=104 New Comment=0.1uF
+Change Component Comment: Designator=C57 Old Comment=Cap Pol1 New Comment=
+Change Component Designator: OldDesignator=* NewDesignator=
+Change Component Designator: OldDesignator=* NewDesignator=
+Change Component Designator: OldDesignator=* NewDesignator=
+Change Component Designator: OldDesignator=JP1 NewDesignator=
+Change Component Designator: OldDesignator=JP4 NewDesignator=L_IN
+Change Component Designator: OldDesignator=JP5 NewDesignator=N_IN
+Change Component Designator: OldDesignator=M NewDesignator=
+Change Pin Designator/Name:  Old Designator=F1-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=F2-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=F3-1 Old Name=1 New Designator =2 New Name=2

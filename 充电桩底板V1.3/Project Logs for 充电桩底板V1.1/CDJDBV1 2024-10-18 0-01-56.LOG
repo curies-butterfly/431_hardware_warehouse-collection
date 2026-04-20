@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=AT_RX Pin=R113-1
+Added Pin To Net: NetName=AT_TX Pin=R115-1
+Added Net: Name=AT_TX

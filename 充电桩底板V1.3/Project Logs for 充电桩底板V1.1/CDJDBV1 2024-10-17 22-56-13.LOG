@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=R5 Old Footprint=采样电阻 New Footprint=R 2512_L
+Change Component Footprint: Designator=R6 Old Footprint=采样电阻 New Footprint=R 2512_L
+Change Component Footprint: Designator=R7 Old Footprint=采样电阻 New Footprint=R 2512_L
+Change Component Footprint: Designator=R8 Old Footprint=采样电阻 New Footprint=R 2512_L
+Change Component Footprint: Designator=R39 Old Footprint=采样电阻 New Footprint=R 2512_L
+Change Component Footprint: Designator=R40 Old Footprint=采样电阻 New Footprint=R 2512_L
+Change Component Footprint: Designator=R41 Old Footprint=采样电阻 New Footprint=R 2512_L
+Change Component Footprint: Designator=R42 Old Footprint=采样电阻 New Footprint=R 2512_L
+Change Component Footprint: Designator=R73 Old Footprint=采样电阻 New Footprint=R 2512_L
+Change Component Footprint: Designator=R74 Old Footprint=采样电阻 New Footprint=R 2512_L
+Change Component Footprint: Designator=R75 Old Footprint=采样电阻 New Footprint=R 2512_L
+Change Component Footprint: Designator=R76 Old Footprint=采样电阻 New Footprint=R 2512_L
+Added Room: Name=connectV1.1
+Added Room: Name=DNJLV1.1
+Added Room: Name=JDQV1.1

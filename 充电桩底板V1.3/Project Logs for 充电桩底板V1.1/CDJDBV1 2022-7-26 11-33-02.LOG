@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=R? NewDesignator=R106
+Added Component: Designator=TP1(TEST 1.6)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TEST 1.6)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TEST 1.6)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=TP1-1
+Added Pin To Net: NetName=D3.3V Pin=TP2-1
+Added Pin To Net: NetName=5V Pin=TP3-1
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED1_1
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component TP1 TEST
+Added Member To Class: ClassName=connectV1.1 Member=Component TP2 TEST
+Added Member To Class: ClassName=connectV1.1 Member=Component TP3 TEST

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC75_1 Pin=U46-3
+Removed Pin From Net: NetName=NetC76_1 Pin=U46-4
+Removed Pin From Net: NetName=NetC73_2 Pin=U46-5
+Removed Pin From Net: NetName=NetC74_2 Pin=U46-6
+Removed Pin From Net: NetName=NetC77_2 Pin=U46-7
+Removed Pin From Net: NetName=NetC72_2 Pin=U46-10
+Removed Pin From Net: NetName=BOOT1 Pin=U46-20
+Removed Pin From Net: NetName=AT3_RX Pin=U46-22
+Removed Pin From Net: NetName=JDQ_I2C_INT Pin=U46-41
+Removed Pin From Net: NetName=JDQ_I2C_SCL Pin=U46-42
+Removed Pin From Net: NetName=JDQ_I2C_SDA Pin=U46-43
+Added Pin To Net: NetName=JDQ_I2C_INT Pin=U46-19
+Added Pin To Net: NetName=JDQ_I2C_SCL Pin=U46-20
+Added Pin To Net: NetName=NetC73_2 Pin=U46-26
+Added Pin To Net: NetName=NetC74_2 Pin=U46-27
+Added Pin To Net: NetName=JDQ_I2C_SDA Pin=U46-39
+Added Pin To Net: NetName=AT3_TX Pin=U46-43

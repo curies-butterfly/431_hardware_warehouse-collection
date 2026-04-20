@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=L2_GND Pin=M？1-1
+Removed Pin From Net: NetName=AC_N Pin=M？1-2
+Removed Pin From Net: NetName=L2_GND Pin=M？1-3
+Removed Pin From Net: NetName=3.3V_2 Pin=M？1-4
+Removed Pin From Net: NetName=L3_GND Pin=M？2-1
+Removed Pin From Net: NetName=AC_N Pin=M？2-2
+Removed Pin From Net: NetName=L3_GND Pin=M？2-3
+Removed Pin From Net: NetName=3.3V_3 Pin=M？2-4
+Removed Pin From Net: NetName=L1_GND Pin=M？3-1
+Removed Pin From Net: NetName=AC_N Pin=M？3-2
+Removed Pin From Net: NetName=L1_GND Pin=M？3-3
+Removed Pin From Net: NetName=3.3V_1 Pin=M？3-4
+Removed Member From Class: ClassName=DNJLV1.1 Member=M？1
+Removed Member From Class: ClassName=DNJLV1.1 Member=M？2
+Removed Member From Class: ClassName=DNJLV1.1 Member=M？3
+Added Component: Designator=JP1(HDR2.54-M-LI-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(HDR2.54-M-LI-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=JP5(HDR2.54-M-LI-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=JP1-1
+Added Pin To Net: NetName=5V Pin=JP1-2
+Added Pin To Net: NetName=L1_GND Pin=JP1-3
+Added Pin To Net: NetName=3.3V_1 Pin=JP1-4
+Added Pin To Net: NetName=DGND Pin=JP4-1
+Added Pin To Net: NetName=5V Pin=JP4-2
+Added Pin To Net: NetName=L2_GND Pin=JP4-3
+Added Pin To Net: NetName=3.3V_2 Pin=JP4-4
+Added Pin To Net: NetName=DGND Pin=JP5-1
+Added Pin To Net: NetName=5V Pin=JP5-2
+Added Pin To Net: NetName=L3_GND Pin=JP5-3
+Added Pin To Net: NetName=3.3V_1 Pin=JP5-4
+Added Member To Class: ClassName=DNJLV1.1 Member=Component JP1 HDR-1X4
+Added Member To Class: ClassName=DNJLV1.1 Member=Component JP4 HDR-1X4
+Added Member To Class: ClassName=DNJLV1.1 Member=Component JP5 HDR-1X4
+Added Room: Name=connectV1.1
+Added Room: Name=DNJLV1.1
+Added Room: Name=JDQV1.1

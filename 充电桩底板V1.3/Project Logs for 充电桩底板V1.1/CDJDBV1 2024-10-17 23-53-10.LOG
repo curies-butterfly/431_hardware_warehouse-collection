@@ -1,0 +1,52 @@
+Added Component: Designator=U46(LQFP48_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "STM32F103 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00161566.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "STM32 Family Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "www.st.com/stm32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "rev13.0, Apr-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Pin Low-Profile Quad Flat Pack, 7 x 7 mm Body, 0.5 mm Pitch (LQFP48)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "rev13, Apr-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=U46(LQFP48_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "STM32F103 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00161566.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "STM32 Family Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "www.st.com/stm32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "rev13.0, Apr-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Pin Low-Profile Quad Flat Pack, 7 x 7 mm Body, 0.5 mm Pitch (LQFP48)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "rev13, Apr-2011"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D3.3V Pin=U46-1
+Added Pin To Net: NetName=NetC75_1 Pin=U46-3
+Added Pin To Net: NetName=NetC76_1 Pin=U46-4
+Added Pin To Net: NetName=NetC73_2 Pin=U46-5
+Added Pin To Net: NetName=NetC74_2 Pin=U46-6
+Added Pin To Net: NetName=NetC77_2 Pin=U46-7
+Added Pin To Net: NetName=DGND Pin=U46-8
+Added Pin To Net: NetName=VREF+ Pin=U46-9
+Added Pin To Net: NetName=NetC72_2 Pin=U46-10
+Added Pin To Net: NetName=AT_TX Pin=U46-12
+Added Pin To Net: NetName=AT_RX Pin=U46-13
+Added Pin To Net: NetName=BOOT1 Pin=U46-20
+Added Pin To Net: NetName=AT3_RX Pin=U46-22
+Added Pin To Net: NetName=DGND Pin=U46-23
+Added Pin To Net: NetName=D3.3V Pin=U46-24
+Added Pin To Net: NetName=NetJP10_5 Pin=U46-30
+Added Pin To Net: NetName=NetJP10_4 Pin=U46-31
+Added Pin To Net: NetName=NetJP10_2 Pin=U46-34
+Added Pin To Net: NetName=DGND Pin=U46-35
+Added Pin To Net: NetName=D3.3V Pin=U46-36
+Added Pin To Net: NetName=NetJP10_1 Pin=U46-37
+Added Pin To Net: NetName=JDQ_I2C_INT Pin=U46-41
+Added Pin To Net: NetName=JDQ_I2C_SCL Pin=U46-42
+Added Pin To Net: NetName=JDQ_I2C_SDA Pin=U46-43
+Added Pin To Net: NetName=NetR120_2 Pin=U46-44
+Added Pin To Net: NetName=DGND Pin=U46-47
+Added Pin To Net: NetName=D3.3V Pin=U46-48
+Added Member To Class: ClassName=connectV1.1 Member=Component U46 STM32F103C8T6
+Added Member To Class: ClassName=connectV1.1 Member=Component U46 STM32F103C8T7

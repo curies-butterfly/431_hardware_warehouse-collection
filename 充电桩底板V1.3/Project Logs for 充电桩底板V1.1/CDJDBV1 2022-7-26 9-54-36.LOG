@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=C? Old Footprint=CAP 3.5*8*11.5 New Footprint=CAP 2.5*5*11 - GD
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component * M3
+Added Member To Class: ClassName=connectV1.1 Member=Component C? 0.1uF
+Added Member To Class: ClassName=connectV1.1 Member=Component C?
+Added Member To Class: ClassName=connectV1.1 Member=Component C? 22uF
+Added Member To Class: ClassName=connectV1.1 Member=Component CF? 0.1uF
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X2
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=connectV1.1 Member=Component R? 100K
+Added Member To Class: ClassName=connectV1.1 Member=Component R? 19.1K

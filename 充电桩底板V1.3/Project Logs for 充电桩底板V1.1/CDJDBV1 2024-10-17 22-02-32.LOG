@@ -1,0 +1,10 @@
+Added Component: Designator=IC1(SOP8)
+Added Pin To Net: NetName=NetC54_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=TPS_EN Pin=IC1-5
+Added Pin To Net: NetName=AGND Pin=IC1-6
+Added Pin To Net: NetName=12V Pin=IC1-7
+Added Pin To Net: NetName=NetC54_2 Pin=IC1-8
+Added Member To Class: ClassName=connectV1.1 Member=Component C57 10uf10v
+Added Member To Class: ClassName=connectV1.1 Member=Component IC1 TPS5430
+Added Member To Class: ClassName=connectV1.1 Member=Component TP1 TEST

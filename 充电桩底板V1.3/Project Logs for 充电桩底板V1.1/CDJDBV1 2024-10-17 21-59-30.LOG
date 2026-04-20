@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=DGND Pin=C55-1
+Removed Pin From Net: NetName=5V Pin=C55-2
+Removed Pin From Net: NetName=DGND Pin=C56-1
+Removed Pin From Net: NetName=5V Pin=C56-2
+Removed Pin From Net: NetName=12V Pin=C57-1
+Removed Pin From Net: NetName=DGND Pin=C57-2
+Removed Pin From Net: NetName=DGND Pin=CF1-1
+Removed Pin From Net: NetName=5V Pin=CF1-2
+Removed Pin From Net: NetName=DGND Pin=CF2-1
+Removed Pin From Net: NetName=12V Pin=CF2-2
+Removed Pin From Net: NetName=DGND Pin=D1-1
+Removed Pin From Net: NetName=NetC54_1 Pin=D1-2
+Removed Pin From Net: NetName=NetC54_1 Pin=L1-1
+Removed Pin From Net: NetName=5V Pin=R103-1
+Removed Pin From Net: NetName=12V Pin=R104-1
+Removed Pin From Net: NetName=DGND Pin=R105-2
+Removed Pin From Net: NetName=5V Pin=TP3-1
+Removed Pin From Net: NetName=12V Pin=U41-1
+Removed Pin From Net: NetName=DGND Pin=U41-6
+Removed Pin From Net: NetName=NetC54_2 Pin=U41-7
+Removed Pin From Net: NetName=NetC54_1 Pin=U41-8
+Removed Pin From Net: NetName=DGND Pin=U41-9
+Removed Member From Class: ClassName=connectV1.1 Member=CF1
+Removed Member From Class: ClassName=connectV1.1 Member=CF2
+Removed Member From Class: ClassName=connectV1.1 Member=R105
+Removed Member From Class: ClassName=connectV1.1 Member=TP3
+Removed Member From Class: ClassName=connectV1.1 Member=U41
+Change Component Footprint: Designator=L1 Old Footprint=AL0204 New Footprint=CDRH74
+Change Component Footprint: Designator=C54 Old Footprint=C 0805_L New Footprint=C 0603_L
+Change Component Footprint: Designator=C56 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C55 Old Footprint=C 0805_M New Footprint=C 0805_L
+Change Component Footprint: Designator=R103 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R104 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=C57 Old Footprint=RB7.6-15 New Footprint=C 0603_L
+Change Component Comment : Designator=R104 Old Comment=1K New Comment=3.24K/1%
+Change Component Comment : Designator=R103 Old Comment=1K New Comment=10K/1%
+Change Component Comment : Designator=L1 Old Comment=10uH New Comment=CD54-15uH
+Change Component Comment : Designator=C55 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=C56 Old Comment=22uF New Comment=104
+Change Component Comment : Designator=C54 Old Comment=104 New Comment=10nf/50v
+Change Component Comment : Designator=C57 Old Comment=Cap Pol1 New Comment=10uf10v
+Change Component Comment : Designator=D1 Old Comment=SS310 New Comment=SS54
+Change component parameters: Designator = "L1" ("L1"); Footprint = "AL0204"; UniqueID = "\NMNGYWKM" ("\NMNGYWKM")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "功率电感"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R103" ("R103"); Footprint = "R 0805_L"; UniqueID = "\YXBIZYJU" ("\YXBIZYJU")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R104" ("R104"); Footprint = "R 0805_L"; UniqueID = "\RHGGFFFJ" ("\RHGGFFFJ")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C54" ("C54"); Footprint = "C 0805_L"; UniqueID = "\ZKOQDWCH" ("\ZKOQDWCH")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C57" ("C57"); Footprint = "RB7.6-15"; UniqueID = "\MOYRYFWV" ("\MOYRYFWV")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SMB"; UniqueID = "\NIAAKSCU" ("\NIAAKSCU")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V/2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E3(CM D(6.3*7.7))
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E4(CD C(6032))
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=C55-2
+Added Pin To Net: NetName=12V Pin=C56-2
+Added Pin To Net: NetName=5V Pin=C57-2
+Added Pin To Net: NetName=NetC54_2 Pin=D1-2
+Added Pin To Net: NetName=12V Pin=E3-1
+Added Pin To Net: NetName=5V Pin=E4-1
+Added Pin To Net: NetName=NetC54_2 Pin=L1-1
+Added Pin To Net: NetName=5V Pin=R103-2
+Added Pin To Net: NetName=AGND Pin=C55-1
+Added Pin To Net: NetName=AGND Pin=C56-1
+Added Pin To Net: NetName=AGND Pin=C57-1
+Added Pin To Net: NetName=AGND Pin=D1-1
+Added Pin To Net: NetName=AGND Pin=E3-2
+Added Pin To Net: NetName=AGND Pin=E4-2
+Added Pin To Net: NetName=AGND Pin=R104-2
+Added Net: Name=AGND
+Added Pin To Net: NetName=NetIC1_4 Pin=R103-1
+Added Pin To Net: NetName=NetIC1_4 Pin=R104-1
+Added Net: Name=NetIC1_4
+Added Net: Name=TPS_EN
+Added Member To Class: ClassName=connectV1.1 Member=Component E3 100uF/25V
+Added Member To Class: ClassName=connectV1.1 Member=Component E4 47uF/16V
+Added Member To Class: ClassName=DNJLV1.1 Member=Component U31 HLW8110
