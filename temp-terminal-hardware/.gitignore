@@ -1,0 +1,5 @@
+temp_terminal-backups
+*.pdf
+bom
+production
+*-cache
