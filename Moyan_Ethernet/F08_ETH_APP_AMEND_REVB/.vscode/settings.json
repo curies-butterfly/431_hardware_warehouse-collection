@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.md": "markdown",
+        "*.js": "javascript",
+        "fft.h": "c",
+        "ethernet_deal.h": "c"
+    },
+    "files.encoding": "gbk",
+    "[markdown]": {
+        "files.encoding": "utf8"
+    },
+    "[javascript]": {
+        "files.encoding": "utf8bom"
+    }
+}

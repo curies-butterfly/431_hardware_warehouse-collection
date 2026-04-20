@@ -1,0 +1,13 @@
+增加在Data_Frame.c文件中添加LAN_Cluster函数来发送judge_nearest_idx,judge_nearest_dist数据
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   SRC/Data_Frame.c
+#	modified:   SRC/Data_Frame.h
+#	modified:   SRC/Ethernet_Deal.c
+#	modified:   SRC/FFT.c
+#
