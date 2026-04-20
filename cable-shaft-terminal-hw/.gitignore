@@ -1,0 +1,6 @@
+bom
+production
+*.pdf
+fp-info-cache
+*.bak
+*-backups
