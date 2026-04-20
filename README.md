@@ -1,29 +1,29 @@
-# 431 Hardware Warehouse Collection
+# 431 硬件仓库合集
 
-This repository is a collection of 431 hardware design projects.
+本仓库是 431 硬件设计项目的合集。
 
-## Project List
+## 项目列表
 
-| Branch Name | Project Description |
-|------------|---------------------|
-| `cable-shaft-collector-hw` | Cable Shaft Collector Hardware - Hardware design for cable shaft environment data collection, including schematics, PCB and firmware. |
-| `cable-shaft-terminal-hw` | Cable Shaft Terminal Hardware - Cable shaft monitoring terminal hardware design, including sensor interface, communication module and power management. |
-| `Chong_Qing` | Chongqing Project Hardware - Customized hardware design for Chongqing area application scenarios. |
-| `current-repeater-rx` | Current Repeater RX Hardware - Current signal repeater receiver side hardware design, including signal conditioning, isolation and communication interface. |
-| `Moyan_Ethernet` | Moyan Ethernet Hardware - Ethernet communication based hardware design, including network interface, protocol stack and data transmission. |
-| `rs485-unb-hardware` | RS485 UNB Hardware - RS485 communication based UNB device hardware design, including isolated communication, power supply and interface circuit. |
-| `SensorControlBoard` | Sensor Control Board Hardware - Sensor control board hardware design, including multi-channel sensor acquisition, data processing and communication interface. |
-| `temp-terminal-hardware` | Temperature Terminal Hardware - Temperature monitoring terminal hardware design, including temperature sensor interface, low power design and wireless communication. |
-| `tpunb-repeater-dtu-hardware` | TPUNB Repeater DTU Hardware - TPUNB protocol repeater and DTU data transmission unit hardware design, including RF front-end, baseband processing and data forwarding. |
+| 分支名称 | 项目描述 |
+|----------|----------|
+| `cable-shaft-collector-hw` | 线缆竖井采集器硬件 - 线缆竖井环境数据采集硬件设计，包含原理图、PCB 及固件。 |
+| `cable-shaft-terminal-hw` | 线缆竖井终端硬件 - 线缆竖井监测终端硬件设计，包含传感器接口、通信模块及电源管理。 |
+| `Chong_Qing` | 重庆项目硬件 - 针对重庆地区应用场景的定制化硬件设计。 |
+| `current-repeater-rx` | 电流中继器接收端硬件 - 电流信号中继器接收端硬件设计，包含信号调理、隔离及通信接口。 |
+| `Moyan_Ethernet` | 墨研以太网硬件 - 基于以太网通信的硬件设计，包含网络接口、协议栈及数据传输。 |
+| `rs485-unb-hardware` | RS485 UNB 硬件 - 基于 RS485 通信的 UNB 设备硬件设计，包含隔离通信、电源及接口电路。 |
+| `SensorControlBoard` | 传感器控制板硬件 - 传感器控制板硬件设计，包含多通道传感器采集、数据处理及通信接口。 |
+| `temp-terminal-hardware` | 温度终端硬件 - 温度监测终端硬件设计，包含温度传感器接口、低功耗设计及无线通信。 |
+| `tpunb-repeater-dtu-hardware` | TPUNB 中继器 DTU 硬件 - TPUNB 协议中继器及 DTU 数据传输单元硬件设计，包含射频前端、基带处理及数据转发。 |
 
-## Usage
+## 使用方法
 
-Each project is located in an independent branch. Switch to the corresponding branch to view project files.
+每个项目位于独立的分支中，切换到对应分支即可查看项目文件。
 
 ```bash
-# List all branches
+# 查看所有分支
 git branch -a
 
-# Switch to a specific project branch
-git checkout <branch-name>
+# 切换到指定项目分支
+git checkout <分支名称>
 ```
